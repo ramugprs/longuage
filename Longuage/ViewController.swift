@@ -61,6 +61,8 @@ class ViewController: UIViewController,UIPickerViewDelegate,UIPickerViewDataSour
         
         mPickerView.reloadAllComponents()
         
+        //Changed in selectcountryAndLonguage Method
+        
     }
     
     //Mark:- UIPickerViewDelegate,UIPickerViewDataSource1
