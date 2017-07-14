@@ -46,10 +46,6 @@ class ViewController: UIViewController,UIPickerViewDelegate,UIPickerViewDataSour
         mHomeVC.longuage = type
         self.navigationController?.pushViewController(mHomeVC, animated: false)
 
-        
-        
-        
-        // Changed by Rajesh1234
     }
 
     @IBAction func selectcountryAndLonguage(sender: UIButton){
