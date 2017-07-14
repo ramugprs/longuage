@@ -38,7 +38,7 @@ class HomeVC: UIViewController,UITabBarDelegate {
         else if longuage == "English"
         {
             key = "en"
-            
+            //testing
         }
         mTabitem1.title = marry[key]?.object(at: 0) as? String
         mTabitem2.title = marry[key]?.object(at: 1) as? String
