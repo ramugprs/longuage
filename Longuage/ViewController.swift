@@ -64,6 +64,8 @@ class ViewController: UIViewController,UIPickerViewDelegate,UIPickerViewDataSour
         
     }
     
+    //Mark:- UIPickerViewDelegate & Data source  Methods
+    
     func numberOfComponents(in pickerView: UIPickerView) -> Int {
         return 1
     }

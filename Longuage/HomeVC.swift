@@ -48,7 +48,8 @@ class HomeVC: UIViewController,UITabBarDelegate {
         
         // Do any additional setup after loading the view.
     }
-
+    //Mark:- UITabBarDelegate Methods
+    
     func tabBar(_ tabBar: UITabBar, didSelect item: UITabBarItem) {
         let mSelectedVC : SelectedVC = UIStoryboard(name:"Main",bundle:nil).instantiateViewController(withIdentifier: "SelectedVC") as! SelectedVC
         mSelectedVC.title = item.title

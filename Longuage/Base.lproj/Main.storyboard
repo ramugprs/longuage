@@ -145,7 +145,7 @@
                                     <outlet property="delegate" destination="4fn-lm-MSn" id="HGJ-4r-yJb"/>
                                 </connections>
                             </tabBar>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Welcome to Mindtree" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tfn-Yl-AFq">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Welcome to Mindtree!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tfn-Yl-AFq">
                                 <rect key="frame" x="50" y="260" width="219" height="47"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="47" id="L7j-8f-GAY"/>
